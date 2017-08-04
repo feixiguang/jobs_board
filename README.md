@@ -1,6 +1,6 @@
 # 项目实作Jobs Board
 
-### 12 in 12 Challenge，第七个项目Todo App.
+### 12 in 12 Challenge，第七个项目Jobs Board.
 
 * 我的目标与挑战是自学Ruby on Rails通过建立一个新的web应用程序(使用Rails 5)
 每周至少1个一共12个项目。

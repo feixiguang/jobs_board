@@ -1,24 +1,10 @@
-# README
+# 项目实作Jobs Board
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 12 in 12 Challenge，第七个项目Todo App.
 
-Things you may want to cover:
+* 我的目标与挑战是自学Ruby on Rails通过建立一个新的web应用程序(使用Rails 5)
+每周至少1个一共12个项目。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 本周，我将创建一个Jobs Board应用程序。我们有能力添加、编辑、删除工作岗位，
+并将每个岗位分配给一个类别，我们能够在不同类别之间进行筛选，以查看该类别中仅有的工作
+(例如，只有“全职”工作)。
